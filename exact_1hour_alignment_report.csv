@@ -1,0 +1,4 @@
+split,rows,exact_future_rows,no_exact_future_rows,target_mismatches,max_abs_alignment_error
+train,50105,48918,1187,0,0
+validation,10737,10470,267,0,0
+test,10737,10459,278,0,0

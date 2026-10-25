@@ -1,0 +1,4 @@
+duration_hours,windows,mean_coverage_pct,min_coverage_pct,mean_observations,windows_below_90pct,windows_below_75pct
+24,10,89.1666666666667,45.8333333333333,42.8,4,2
+72,10,88.125,35.4166666666667,126.9,3,1
+168,10,87.7083333333333,55.0595238095238,294.7,4,1

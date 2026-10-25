@@ -1,0 +1,4 @@
+split,total_rows,exact_future_rows,eligible_rows,excluded_rows
+train,50105,48918,48916,1189
+validation,10737,10470,10468,269
+test,10737,10459,10459,278

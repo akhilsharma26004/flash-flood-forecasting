@@ -1,0 +1,4 @@
+model,predictors,num_trees,mtry,min_node_size,seed,target,prediction_reconstruction
+Authors_aligned_505,505,300,22,5,2026,delta_target,nivel_conselheiro + predicted_delta
+Augmented_506,506,300,22,5,2026,delta_target,nivel_conselheiro + predicted_delta
+Level_plus_local_rain,2,300,1,5,2026,delta_target,nivel_conselheiro + predicted_delta

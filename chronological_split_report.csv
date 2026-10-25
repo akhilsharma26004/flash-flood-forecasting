@@ -1,0 +1,4 @@
+split,rows,start_time,end_time,target_missing,level_missing
+train,50105,2019-01-04T14:30:00Z,2022-07-10T03:30:00Z,0,0
+validation,10737,2022-07-10T04:00:00Z,2023-03-26T21:00:00Z,0,0
+test,10737,2023-03-26T21:30:00Z,2023-12-31T16:30:00Z,0,0
